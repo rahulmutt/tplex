@@ -1,6 +1,6 @@
 {
   "name": "tplex",
-  "image": "ghcr.io/rahulmutt/dev:sha-b4ee1c1",
+  "image": "ghcr.io/rahulmutt/dev:sha-4d86a3d",
   "workspaceFolder": "/workspace",
   "remoteUser": "dev",
   "postCreateCommand": "post-create.sh",
